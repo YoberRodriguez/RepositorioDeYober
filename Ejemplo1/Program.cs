@@ -10,6 +10,7 @@ namespace Ejemplo1
     {
         static void Main(string[] args)
         {
+            Console.ReadLine("BIENVENIDO");
         }
     }
 }
