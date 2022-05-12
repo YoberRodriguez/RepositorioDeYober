@@ -48,6 +48,11 @@ namespace ejercicio
                     else
                         Console.Write(" ---> Isosceles");
                 }
+
+            }
+            else
+            {
+                Console.Write("No es un triangulo");
             }
             Console.Read();
         }
